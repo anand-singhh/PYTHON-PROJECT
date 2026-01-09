@@ -28,7 +28,7 @@ A full-screen digital world clock application built using **Python Tkinter** tha
 - Australia 🇦🇺 (Australia/Sydney)
 
 # Screenshot
-![App Screenshot](images/screenshot.png)
+![App Screenshot](screenshot.png.png)
 
 # How to Run
 1. Install required library:
